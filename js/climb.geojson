@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Old Mans Peak",
+        "Difficulty": "Easy",
+        "Description": "A nice easy climb that is not too high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.63422417640686,
+          56.153306700874424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Water Ridge",
+        "Difficulty": "Moderate",
+        "Description": "A climb that is situated by the rivers edge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.630962610244751,
+          56.1541731629904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Difficulty": "Hard",
+        "Name": "Forked Ridge",
+        "Description": "A steep and high climb that is close to a road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.632807970046997,
+          56.150874526954084
+        ]
+      }
+    }
+  ]
+}
